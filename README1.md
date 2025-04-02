@@ -1,1 +1,3 @@
-https://github.com/Suhani-prog-alt/suhani/commit/23b01e42b18dc269b60256244244f43b845331ef
+http://127.0.0.1:5500/index.html
+
+Project URL is Added to README.md
