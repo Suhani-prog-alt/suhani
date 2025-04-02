@@ -1,3 +1,3 @@
-https://suhani-prog-alt.github.io/
+https://roadmap.sh/projects/single-page-cv
 
 Added project URL to README.md
