@@ -1,3 +1,3 @@
-http://127.0.0.1:5500/index.html
+https://suhani-prog-alt.github.io/
 
 Added project URL to README.md
